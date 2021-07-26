@@ -17,7 +17,7 @@ const routes: Routes = [
   { path: 'news', component: NewsComponent },
   { path: 'trainer', component: TrainerComponent },
   { path: 'gallery', component: GalleryComponent },
-  { path: 'contact-us', component: ContactUsComponent },
+  { path: 'contact', component: ContactUsComponent },
 ];
 
 @NgModule({
